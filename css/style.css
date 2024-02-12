@@ -4,10 +4,8 @@
     box-sizing: border-box;
 }
 
-div {
+div p, img {
     background-color: #eeb8c5; /* Couleur de fond générale */
-    color: #030303; /* Couleur du texte */
-    font-family: 'Playfair Display', serif; /* Police par défaut */
 }
 
 a {
