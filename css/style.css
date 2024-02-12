@@ -15,6 +15,11 @@ header{
     color: #030303; /* Couleur du texte */
 }
 
+footer{
+    background-color: #d3574e; /* Couleur de fond générale */
+    color: #030303; /* Couleur du texte */
+}
+
 div img {
     max-width: 50%;
     max-height: 50%;
