@@ -10,6 +10,9 @@ body {
     font-family: 'Playfair Display', serif; /* Police par défaut */
 }
 
+a{
+    color: #030303;
+}
 
 header{
     background-color: #d3574e; /* Couleur de fond générale */
