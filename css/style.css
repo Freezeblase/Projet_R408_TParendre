@@ -8,13 +8,10 @@ div p, img {
     background-color: #eeb8c5; /* Couleur de fond générale */
 }
 
-a {
-    color: #000000; /* New color for the links */
+div nav a {
+    color: #2e529b; /* New color for the links */
     text-decoration: none; /* Remove underline from links */
-}
-
-a:hover {
-    color: #4161a0; /* Color when hovering over links */
+    text-decoration: underline;
 }
 
 header{
