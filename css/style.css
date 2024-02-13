@@ -47,6 +47,13 @@ img :hover,a:hover {
     transform: scale(1.1); /*Effet d'agrandissement au survol */
 }
 
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
 .image-container {
     flex: 0 0 48%;
     margin: 1%;
@@ -57,6 +64,7 @@ img :hover,a:hover {
 .image-container img {
     width: 100%;
     height: auto;
+    transition: transform 0.3s ease;
 }
 
 .overlay {
@@ -83,6 +91,17 @@ img :hover,a:hover {
 .overlay p {
     color: white;
     text-align: center;
+    max-width: 50%;
     margin: 5px;
     padding: 5px;
+    margin-top: 50px;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
 }
