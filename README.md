@@ -8,7 +8,7 @@ La composition du groupe :
 -GUILBERT Ethan
 -VALLEE Antoine
 
-Les fonctionnalités mises en place:
+##Les fonctionnalités mises en place:
 
 - des pages fixes orgarnisé avec du bootstrap.
   
