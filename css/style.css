@@ -42,3 +42,7 @@ div p {
     padding: 5px;
     margin-top: 50px;
 }
+
+img :hover,a:hover {
+    transform: scale(1.1); /*Effet d'agrandissement au survol */
+}
