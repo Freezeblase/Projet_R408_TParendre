@@ -6,9 +6,9 @@ Un site sur Bocchi the rock, un animé qu'Antoine et Ethan conaissent beaucoup.
 
 ## La composition du groupe 
 
--GUENIER Mathieu
--GUILBERT Ethan
--VALLEE Antoine
+- GUENIER Mathieu
+- GUILBERT Ethan
+- VALLEE Antoine
 
 ## Les fonctionnalités mises en place:
 
@@ -23,9 +23,9 @@ des pages fixes orgarnisé avec du bootstrap.
 
 ## L’organisation de votre groupe : quelle stratégie avez-vous adoptée (une personne par page, une personne par fonctionnalité, une personne par technologie, etc…).
 
-Mathieu -> HTML, Bootstrap
-Ethan -> CSS
-Antoine -> JS
+- Mathieu -> HTML, Bootstrap
+- Ethan -> CSS
+- Antoine -> JS
 
 ## Les difficultés rencontrées (avec git, ou autre) et les solutions que vous avez mises en œuvre
 
