@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div p, img {
+    background-color: #0a00ce; /* Couleur de fond générale */
+}
+
+div nav a {
+    color: #2e529b; /* New color for the links */
+    text-decoration: none; /* Remove underline from links */
+    text-decoration: underline;
+}
+
+header{
+    background-color: #d3574e; /* Couleur de fond générale */
+    color: #030303; /* Couleur du texte */
+}
+
+footer{
+    background-color: #ff685d; /* Couleur de fond générale */
+    color: #030303; /* Couleur du texte */
+}
+
+div img {
+    max-width: 50%;
+    max-height: 50%;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+
+div p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    max-width: 50%;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 50px;
+}
