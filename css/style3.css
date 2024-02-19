@@ -42,3 +42,8 @@ div p {
     padding: 5px;
     margin-top: 50px;
 }
+
+h2{
+    text-shadow: #030303;
+    text-decoration: underline;
+}
